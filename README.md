@@ -3,5 +3,5 @@
 
 Code Reference - Many thanks to the following repositories
 
-* [Authors' Repository](https://github.com/melodyguan/enas/blob/master)
-* [TDeVries' Repository](https://github.com/TDeVries/enas_pytorch/blob/master)
+* [Authors' Repository](https://github.com/melodyguan/enas)
+* [TDeVries' Repository](https://github.com/TDeVries/enas_pytorch)
